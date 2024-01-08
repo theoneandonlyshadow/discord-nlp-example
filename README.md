@@ -64,7 +64,7 @@ Before you run, make sure you have installed necessary dependencies, intents spe
         discord.js: ^14.14.1
         compromise: 13.1.1
 
-![Compromise NLP](https://www.npmjs.com/package/compromise/v/13.1.1)
+[Compromise NLP](https://www.npmjs.com/package/compromise/v/13.1.1)
 
 ## Authors
 

@@ -39,7 +39,7 @@ NLP is a subset of AI. Using Compromise NLP, you can detect user prompts and ret
 
 
 ### Note: 
-Before you run, make sure you have installed necessary dependencies, intents specified and bot token specified for Discord API. Also modify the code for control statements or loops as you wish. This is just an example with only NLP in it.
+Before you run, make sure you have installed necessary dependencies, intents specified and bot token specified for Discord API. Also modify the code for control statements like if-else or loops as you wish. This is just an example with only NLP in it.
 
 
 ## Built With

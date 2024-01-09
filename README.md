@@ -8,12 +8,12 @@
   <p align="center">
     Natural Language Processing for Discord.js
     <br/>
-    [MIT License](https://mit-license.org/)
     <br/>
     <br/>
   </p>
 </p>
 
+[MIT License](https://mit-license.org/)
 
 ## Table Of Contents
 

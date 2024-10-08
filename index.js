@@ -5,13 +5,13 @@ const nlp3 = require('compromise/three')
 let doc = nlp1('I can code in js') // replace with message.content
 doc.verbs().toPastTense()
 const res = doc.text()
-message.channel.send(res); // I could code in js
+message.channel.send(res); // RESULT: I could code in js
 
 // -----------         change a colloquial entence to formal
 let doc = nlp1("we're not going to take it..") // replace with message.content
 huh = doc.contractions().expand()
 res = doc.text()
-console.log(res) // we are not going to take it..
+console.log(res) // RESULT: we are not going to take it..
 
 // -----------          add or subtract to the value
 let doc = nlp1('ninety five thousand and fifty two') // replace with message.content
@@ -27,7 +27,7 @@ message.channel.send(res1) // 400
 let doc = nlp1('I saw a man walking here') // replace with message.content
 doc.nouns().toPlural() 
 res = doc.text()
-message.channel.send(res) // I saw men walking here
+message.channel.send(res) //RESULT: I saw men walking here
 
 // -----------         changes a sentence to negative or positive
 var doc = nlp1('i did not sleep here') // replace with message.content
